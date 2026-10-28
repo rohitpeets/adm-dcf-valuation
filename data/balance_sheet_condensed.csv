@@ -1,0 +1,16 @@
+line_item_usd_mm,31-Dec-2021,31-Dec-2022,31-Dec-2023,31-Dec-2024,31-Dec-2025,30-Jun-2026,notes
+cash_and_equivalents,943,1037,1368,611,1015,1060,
+short_term_marketable_securities,0,0,0,246,32,33,
+operating_working_capital,10546,11627,9843,9501,7888,8254,
+ppe_net,9890,9933,10508,10837,11179,10979,
+investments_in_affiliates,5285,5467,5500,5276,5560,5901,
+goodwill_and_other_intangibles,6660,6544,6341,6769,6744,6498,
+other_non_current_assets,2392,2420,2515,2670,2241,2350,
+total_net_investment,35716,37028,36075,35910,34659,35075,
+short_term_debt,958,503,105,1903,798,407,
+long_term_debt_incl_current,8581,8677,8260,8254,7612,7604,
+deferred_liabilities,3410,3232,3245,3322,3222,3192,
+temporary_equity,239,299,320,253,287,292,
+shareholders_equity_incl_nci,22528,24317,24145,22178,22740,23580,
+
+source_by_period,https://www.sec.gov/Archives/edgar/data/7084/000000708423000004/adm-ex991_20221231xq4.htm,https://www.sec.gov/Archives/edgar/data/7084/000000708423000004/adm-ex991_20221231xq4.htm,https://www.sec.gov/Archives/edgar/data/7084/000000708425000005/adm-ex991_20241231xq4.htm,https://businesswire.com/news/home/20260203538624/en/ADM-Reports-Fourth-Quarter-and-Full-year-2025-Results-Provides-2026-Guidance,https://businesswire.com/news/home/20260203538624/en/ADM-Reports-Fourth-Quarter-and-Full-year-2025-Results-Provides-2026-Guidance,https://www.sec.gov/Archives/edgar/data/0000007084/000000708426000040/adm-ex991_20260630xq2.htm ; https://www.sec.gov/Archives/edgar/data/0000007084/000000708426000042/adm-20260630.htm,Condensed 'net investment' balance sheet from earnings releases; 30-Jun-2026 also in Form 10-Q.

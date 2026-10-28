@@ -1,0 +1,19 @@
+item,value,unit,as_of,retrieved,source_url
+"ADM share price, previous close (StockAnalysis: 77.45 at 12:02 PM EDT 28-Oct-2026, change -0.75)",78.2,USD,2026-10-27,2026-10-28,https://stockanalysis.com/stocks/ADM/
+ADM shares outstanding,481959583,shares,2026-07-30,2026-10-28,https://www.sec.gov/Archives/edgar/data/0000007084/000000708426000042/adm-20260630.htm
+52-week high,88.75,USD,2026-10-27,2026-10-28,https://stockanalysis.com/stocks/ADM/
+52-week low,55.58,USD,2026-10-27,2026-10-28,https://stockanalysis.com/stocks/ADM/
+Analyst average price target (11 analysts),80.3,USD,2026-10-28,2026-10-28,https://stockanalysis.com/stocks/ADM/
+Beta (5Y),0.63,x,2026-10-26,2026-10-28,https://stockanalysis.com/stocks/adm/statistics/
+10Y Treasury (DGS10),5.0,percent,2026-10-26,2026-10-28,https://fred.stlouisfed.org/series/DGS10
+Implied equity risk premium,4.2,percent,2026-10-01,2026-10-28,https://pages.stern.nyu.edu/adamodar/New_Home_Page/home.htm
+2026 adjusted EPS guidance low,5.15,USD,2026-08-04,2026-10-28,https://www.sec.gov/Archives/edgar/data/0000007084/000000708426000040/adm-ex991_20260630xq2.htm
+2026 adjusted EPS guidance high,5.6,USD,2026-08-04,2026-10-28,https://www.sec.gov/Archives/edgar/data/0000007084/000000708426000040/adm-ex991_20260630xq2.htm
+2026 capex guidance low,1300,USD mm,2026-08-04,2026-10-28,https://www.sec.gov/Archives/edgar/data/0000007084/000000708426000040/adm-ex991_20260630xq2.htm
+2026 capex guidance high,1500,USD mm,2026-08-04,2026-10-28,https://www.sec.gov/Archives/edgar/data/0000007084/000000708426000040/adm-ex991_20260630xq2.htm
+Quarterly dividend per share (annual $2.08; ex-div 19-Aug-2026),0.52,USD,2026-10-28,2026-10-28,https://stockanalysis.com/stocks/ADM/
+Non-controlling interests,7,USD mm,2026-06-30,2026-10-28,https://www.sec.gov/Archives/edgar/data/0000007084/000000708426000042/adm-20260630.htm
+Beta Blume-adjusted (0.67 x 0.63 + 0.33),0.7521,x,derived,2026-10-28,formula
+Diluted average shares Q2 2026 (10-Q),485,mm,2026-06-30,2026-10-28,https://www.sec.gov/Archives/edgar/data/0000007084/000000708426000042/adm-20260630.htm
+Operating lease liabilities (current 305 + non-current 1026),1331,USD mm,2026-06-30,2026-10-28,https://www.sec.gov/Archives/edgar/data/0000007084/000000708426000042/adm-20260630.htm
+ADM close 26-Oct-2026 (history table cross-check),79.01,USD,2026-10-26,2026-10-28,https://stockanalysis.com/stocks/adm/history/

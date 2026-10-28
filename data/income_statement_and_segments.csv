@@ -1,0 +1,21 @@
+line_item_usd_mm,FY2021,FY2022,FY2023,FY2024,FY2025,6M2025,6M2026,notes
+revenues,85249,101848,93935,85530,80269,41341,43171,
+cost_of_products_sold,79262,94278,86422,79752,75236,38791,40014,
+sga,2994,3358,3456,3706,3609,1843,1987,
+asset_impairment_exit_restructuring,164,66,342,545,473,175,25,
+equity_in_earnings_of_affiliates,595,832,551,621,648,278,231,
+interest_and_investment_income,96,293,499,562,118,68,241,
+interest_expense,265,396,647,706,612,317,297,
+loss_on_debt_extinguishment,36,0,0,0,0,0,0,
+other_income_net,94,358,176,251,150,71,152,
+earnings_before_income_taxes,3313,5233,4294,2255,1255,632,1472,
+income_tax_expense,578,868,828,476,182,123,257,
+net_earnings_attributable_to_adm,2709,4340,3483,1800,1078,514,1206,
+diluted_eps_gaap_usd,4.79,7.71,6.43,3.65,2.23,1.06,2.49,
+adjusted_eps_non_gaap_usd,5.19,7.85,6.98,4.74,3.43,1.63,2.56,
+avg_diluted_shares_mm,566,563,542,493,484,484,485,
+seg_op_profit_ag_services_oilseeds,2775,4386,4067,2447,1614,791,1140,
+seg_op_profit_carbohydrate_solutions,1283,1360,1375,1376,1211,576,767,
+seg_op_profit_nutrition,691,736,427,386,417,210,307,
+
+source_by_period,https://www.sec.gov/Archives/edgar/data/7084/000000708423000004/adm-ex991_20221231xq4.htm,https://www.sec.gov/Archives/edgar/data/7084/000000708423000004/adm-ex991_20221231xq4.htm,https://www.sec.gov/Archives/edgar/data/7084/000000708425000005/adm-ex991_20241231xq4.htm,https://businesswire.com/news/home/20260203538624/en/ADM-Reports-Fourth-Quarter-and-Full-year-2025-Results-Provides-2026-Guidance,https://businesswire.com/news/home/20260203538624/en/ADM-Reports-Fourth-Quarter-and-Full-year-2025-Results-Provides-2026-Guidance,https://www.sec.gov/Archives/edgar/data/0000007084/000000708426000040/adm-ex991_20260630xq2.htm,https://www.sec.gov/Archives/edgar/data/0000007084/000000708426000040/adm-ex991_20260630xq2.htm,Form 8-K Ex. 99.1 earnings releases (SEC EDGAR / BusinessWire copy of the same release). FY21-22 segment figures as originally reported.

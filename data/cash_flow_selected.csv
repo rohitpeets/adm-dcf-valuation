@@ -1,0 +1,9 @@
+line_item_usd_mm,FY2021,FY2022,FY2023,FY2024,FY2025,6M2025,6M2026,notes
+depreciation_amortization,996,1028,1059,1141,1181,578,586,
+changes_in_operating_assets_liabilities,2654,-1789,-267,-492,2763,,,
+net_cash_from_operations,6595,3478,4460,2790,5452,3956,1299,
+capital_expenditures,-1169,-1319,-1494,-1563,-1248,-596,-466,
+share_repurchases,0,-1450,-2673,-2327,0,,,
+cash_dividends,-834,-899,-977,-985,-987,,-510,
+
+source_by_period,https://www.sec.gov/Archives/edgar/data/7084/000000708423000004/adm-ex991_20221231xq4.htm,https://www.sec.gov/Archives/edgar/data/7084/000000708423000004/adm-ex991_20221231xq4.htm,https://www.sec.gov/Archives/edgar/data/7084/000000708425000005/adm-ex991_20241231xq4.htm,https://businesswire.com/news/home/20260203538624/en/ADM-Reports-Fourth-Quarter-and-Full-year-2025-Results-Provides-2026-Guidance,https://businesswire.com/news/home/20260203538624/en/ADM-Reports-Fourth-Quarter-and-Full-year-2025-Results-Provides-2026-Guidance,https://www.sec.gov/Archives/edgar/data/0000007084/000000708426000042/adm-20260630.htm,https://www.sec.gov/Archives/edgar/data/0000007084/000000708426000040/adm-ex991_20260630xq2.htm ; https://www.sec.gov/Archives/edgar/data/0000007084/000000708426000042/adm-20260630.htm,"FY2024 OCF/working capital per Q4'25 release (Q4'24 release showed 2,780 / (519))."
